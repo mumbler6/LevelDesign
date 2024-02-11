@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Maps/MyLevel.umap",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/UI/HealthBar.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/UI/GameOver.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/UI/Score.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Purser_AIControler.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Purser_AIController.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/FX/SmokeMAT.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/FX/Explosion.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAI_State.uasset",
+				"C:/Users/benja/Desktop/CS415 Projects/LevelDesign 5.3/Content/LearningKit_Games/Blueprints/FX/Smoke_Texture.uasset"
+			]
+		}
+	]
+}
